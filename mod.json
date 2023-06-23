@@ -1,0 +1,6 @@
+{
+    "Name": "moan pistol",
+    "Description": "makes the smart pistol moan when locked (client side)",
+    "Version": "1.0.0",
+    "LoadPriority": 1
+}
